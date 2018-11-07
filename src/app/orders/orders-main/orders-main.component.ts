@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class OrdersMainComponent implements OnInit {
 
+  titre = "titre";
   constructor() { }
 
   ngOnInit() {
